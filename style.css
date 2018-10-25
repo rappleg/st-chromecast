@@ -1,0 +1,30 @@
+.background {
+  background-image: url(SmartThings_Wht_RGB.svg);
+  background-color: #3e1784;
+  background-repeat: no-repeat;
+  background-size: 90% 90%;
+}
+
+.logo {
+  background-image: url(SmartThings_Wht_RGB.svg);
+  background-color: #3e1784;
+  background-repeat: no-repeat;
+  background-size: 90% 90%;
+}
+
+.progressBar {
+  background-color: #3e1784;
+}
+
+.splash {
+  background-image: url(SmartThings_Wht_RGB.svg);
+  background-color: #3e1784;
+  background-repeat: no-repeat;
+  background-size: 90% 90%;
+}
+
+.watermark {
+  background-image: url(watermark.png);
+  background-size: 57px 57px;
+  opacity: 0.5;
+}
